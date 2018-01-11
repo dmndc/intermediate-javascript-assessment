@@ -37,6 +37,7 @@ function daBears(){
   }
 }
 
+
 // Remove entries from the following arrays until only correct answers remain.
 // A correct answer will be an array of strings that are function names.
 
